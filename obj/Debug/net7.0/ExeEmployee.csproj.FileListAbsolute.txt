@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/bin/Debug/net7.0/ExeEmployee
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/bin/Debug/net7.0/ExeEmployee.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/bin/Debug/net7.0/ExeEmployee.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/bin/Debug/net7.0/ExeEmployee.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/bin/Debug/net7.0/ExeEmployee.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/obj/Debug/net7.0/ExeEmployee.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/obj/Debug/net7.0/ExeEmployee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/obj/Debug/net7.0/ExeEmployee.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/obj/Debug/net7.0/ExeEmployee.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/obj/Debug/net7.0/ExeEmployee.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/obj/Debug/net7.0/ExeEmployee.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/obj/Debug/net7.0/refint/ExeEmployee.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/obj/Debug/net7.0/ExeEmployee.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/obj/Debug/net7.0/ExeEmployee.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExeEmployee/obj/Debug/net7.0/ref/ExeEmployee.dll
